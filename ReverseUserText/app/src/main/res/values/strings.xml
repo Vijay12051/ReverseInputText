@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReverseUserInputText</string>
+    <string name="reverse_string">Text Reverse</string>
+    <string name="enter_text_here">Enter text here</string>
+</resources>
