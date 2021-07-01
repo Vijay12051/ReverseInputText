@@ -1,4 +1,4 @@
-package com.example.reverseuserinputtext.view
+package com.example.reverseuserinputtext.viewmodel
 
 import android.view.View
 import androidx.lifecycle.MutableLiveData

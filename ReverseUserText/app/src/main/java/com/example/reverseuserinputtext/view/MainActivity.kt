@@ -7,6 +7,7 @@ import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
 import com.example.reverseuserinputtext.databinding.ActivityMainBinding
+import com.example.reverseuserinputtext.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 
